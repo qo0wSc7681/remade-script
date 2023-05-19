@@ -1,0 +1,12 @@
+-- Wait until script creation is complete.
+-- created by stone
+print("Loading Script...")
+wait(2)
+print("Loading Script..")
+wait(2)
+print("Loading Script.")
+wait(2)
+print("Loading Script..")
+wait(2)
+print("Loading Script...")
+wait(2)
