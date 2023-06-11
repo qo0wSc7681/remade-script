@@ -1,12 +1,11 @@
 -- Wait until script creation is complete.
 -- created by q0om
 print("Loading Script...")
-wait(2)
+wait(1)
 print("Loading Script..")
-wait(2)
+wait(1)
 print("Loading Script.")
-wait(2)
+wait(1)
 print("Loading Script..")
-wait(2)
+wait(1)
 print("Loading Script...")
-wait(2)
