@@ -1,5 +1,5 @@
 -- Wait until script creation is complete.
--- created by stone
+-- created by q0om
 print("Loading Script...")
 wait(2)
 print("Loading Script..")
